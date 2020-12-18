@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/demo-social/static/css/main.91ce674c.chunk.css",
+    "main.js": "/demo-social/static/js/main.6001c2eb.chunk.js",
+    "main.js.map": "/demo-social/static/js/main.6001c2eb.chunk.js.map",
+    "runtime-main.js": "/demo-social/static/js/runtime-main.2c249cb1.js",
+    "runtime-main.js.map": "/demo-social/static/js/runtime-main.2c249cb1.js.map",
+    "static/js/2.dd07ce9c.chunk.js": "/demo-social/static/js/2.dd07ce9c.chunk.js",
+    "static/js/2.dd07ce9c.chunk.js.map": "/demo-social/static/js/2.dd07ce9c.chunk.js.map",
+    "static/js/3.9ac61676.chunk.js": "/demo-social/static/js/3.9ac61676.chunk.js",
+    "static/js/3.9ac61676.chunk.js.map": "/demo-social/static/js/3.9ac61676.chunk.js.map",
+    "index.html": "/demo-social/index.html",
+    "static/css/main.91ce674c.chunk.css.map": "/demo-social/static/css/main.91ce674c.chunk.css.map",
+    "static/js/2.dd07ce9c.chunk.js.LICENSE.txt": "/demo-social/static/js/2.dd07ce9c.chunk.js.LICENSE.txt",
+    "static/media/BigSmile.0d2c16ca.png": "/demo-social/static/media/BigSmile.0d2c16ca.png",
+    "static/media/Loader2.01b22d1d.gif": "/demo-social/static/media/Loader2.01b22d1d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c249cb1.js",
+    "static/js/2.dd07ce9c.chunk.js",
+    "static/css/main.91ce674c.chunk.css",
+    "static/js/main.6001c2eb.chunk.js"
+  ]
+}
