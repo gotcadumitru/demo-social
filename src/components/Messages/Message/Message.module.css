@@ -1,0 +1,20 @@
+.message{
+    margin-bottom: 20px;
+    font-size:1.5rem;
+    font-weight: 300;
+}
+.message img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.message.sendMe{
+    text-align: right;
+    font-style: italic;
+    font-weight: 700;
+
+}
+.message.sendFriend{
+    text-align: left;
+
+}

@@ -1,0 +1,15 @@
+.nav{
+  background-color: #07b568;
+  width: 20%;
+  height: 500px;
+}
+li{
+  margin-bottom: 20px;
+}
+.item{
+  margin-bottom:50px;
+  color: #fff;
+}
+.item.active{
+  color: chartreuse;
+}

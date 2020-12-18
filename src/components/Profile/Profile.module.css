@@ -1,0 +1,11 @@
+
+.profile img{
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  height: 150px;
+}
+.profile__person img{
+  width: 150px;
+  height: 150px;
+}

@@ -1,0 +1,60 @@
+.content{
+    padding: 30px;
+}
+.ava{
+    display: block;
+    width: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.follow{
+    display: flex;
+    margin: 0 auto;
+    padding: 12px;
+    border-radius: 10px;
+    outline: none;
+    border-width: 0px;
+    background-color: chartreuse;
+    cursor: pointer;
+}
+.avatar{
+    width: 15%;
+    display: block;
+}
+.user{
+    display: flex;
+    border-width: 0px;
+    margin-bottom: 20px;
+}
+.info{
+    display: flex;
+    width: 85%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid #999;
+    border-radius: 10px;
+    padding: 20px;
+}
+.AboutME{
+}
+.live{
+}
+.selected{
+    font-weight: 700;
+}
+.pages{
+    cursor: pointer;
+}
+.paginationContainer{
+    display: flex;
+}
+.pageClassName{
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.pageClassName a:focus{
+    outline: none;
+    border: none;
+
+}

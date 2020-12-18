@@ -1,0 +1,29 @@
+.mess{
+    display: flex;
+    height: 100%;
+    font-size: 2rem;
+}
+.personList{
+    width: 33.333%;
+    padding: 15px;
+}
+.dialogs{
+    padding: 15px;
+    width: 66.666%;
+}
+.personList ul li{
+    margin-bottom: 30px;
+    list-style:circle;
+}
+.personInfo img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+}
+.item{
+    color: #999;
+}
+.item.active {
+    color: #000;
+    font-weight: 500;
+}

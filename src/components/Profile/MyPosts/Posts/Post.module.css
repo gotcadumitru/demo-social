@@ -1,0 +1,11 @@
+.item{
+    color: blue;
+}
+.item img{
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+}
+.name{
+    font-weight: 700;
+}
